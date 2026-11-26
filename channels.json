@@ -1,0 +1,12 @@
+{
+  "notify_categories": [],
+  "search_words": [
+    "סינגל חדש",
+    "שיר חדש",
+    "קליפ רשמי",
+    "ניגון חדש",
+    "new jewish song"
+  ],
+  "exclude_words": ["#shorts", "full concert", "הרצאה", "שיעור"],
+  "channels": []
+}
